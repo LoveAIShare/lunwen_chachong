@@ -110,5 +110,6 @@ OEM  维普、万方、Turnitin 查重，AIGC 率检测，自动降重，查重
 ## 🤝联系我们(请在微信备注: 合作合伙人)
 
 - 微信: kelelw520
+- 联系客服可以领取60天平台SVIP兑换码
 
 ![image.png](./e8723d01f4beb07451eed0df9d5cd8e7.png)
