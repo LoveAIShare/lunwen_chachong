@@ -1,6 +1,6 @@
 ## 🔍 论文查重系统招商加盟
 
-知网、维普、万方、Turnitin 查重，AIGC 率检测，自动降重，查重报告逐句标红，毕业论文、课程论文、期刊投稿全覆盖...
+OEM  维普、万方、Turnitin 查重，AIGC 率检测，自动降重，查重报告逐句标红，毕业论文、课程论文、期刊投稿全覆盖...
 
 🎓 全网已部署百套
 
@@ -10,10 +10,12 @@
 - 无需购买服务器，无需配置环境
 - 0元部署
 - 提供数据管理后台
+- 赠送SVIP，起步0成本
+- 支持API接口调用
 
 ## 📝 在线体验地址
 
-- C端(客户端): <https://tx3240.dashixiezuo.com>
+- C端(客户端): [https://tx3240-paper.taoxiangyoushu.com](https://tx3240-paper.taoxiangyoushu.com/)
 
 ![image.png](./54e37c5bb2e023d911a2d4e84080eb00.png)
 
@@ -21,19 +23,18 @@
 
 ![image.png](./aadceeb5bc567d354daa9065728f4f4a.png)
 
-- 操作文档: <https://taoxiang.feishu.cn/wiki/HwwfwaCwmiJFdTkx9MqcNWYenYN?from=from_copylink>
+- 副业介绍: <https://taoxiang.feishu.cn/wiki/HwwfwaCwmiJFdTkx9MqcNWYenYN?from=from_copylink>
+- 操作文档: <https://taoxiang.feishu.cn/wiki/Uaf0wALDpivJqJk8u1DcjyWKnhf?from=from_copylink>
 
 ## C端功能特性
 
 - 🚀一键上传论文, 支持 Word/PDF/TXT, 万字长文快速出查重报告
-- 🔥对接知网, 维普, 万方, Turnitin 等主流查重源
+- 🔥对接 维普, 万方, Turnitin 等国内外主流查重源
 - 🔥支持 AIGC 率检测, 识别 AI 生成内容并给出修改建议
 - 🔥查重报告逐句标红, 重复来源可追溯到具体文献
 - 支持中英文论文, 课程论文, 毕业论文, 期刊投稿查重
-- 🔥支持自动降重, 同义改写, 语序调整, 保留原文原意
 - 支持分段查重与全文查重, 按次或按字数计费
 - 支持查重报告导出 PDF/Word, 可自定义报告样式
-- 支持用户勾选增值服务(如: AI降重, 开题报告, 答辩ppt, 实证数据)
 - 🔥支持匿名检测, 无需登录即可下单
 - 🔥支持PC端, 移动端, 微信内直接打开
 - 支持API调用和定制
